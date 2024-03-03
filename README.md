@@ -1,6 +1,6 @@
 # youtube4me
 
-#Welcome to Youtube4Me - a simple python implementation of the pytube library.
+# Welcome to Youtube4Me - a simple python implementation of the pytube library.
 
 Functionality:
 - Search youtube videos
