@@ -10,3 +10,8 @@ Functionality:
 - Get channel details and download them
 
 current issues - the channel functionality does not work due to pytube not accepting certain regex patterns of yt channels..
+
+Usage:
+- Download youtube4me.py
+- type 'python youtube4me.py' in the terminal (or run the python file in an IDE)
+- Download some videos!
